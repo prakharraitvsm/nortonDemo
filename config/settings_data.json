@@ -142,11 +142,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "14033927738893891564": {
-        "type": "shopify://apps/miniorange-sso/blocks/new-customer-account/48152e16-8060-4bf5-8478-83efdf88901f",
-        "disabled": false,
-        "settings": {}
-      },
       "14138263979377034098": {
         "type": "shopify://apps/miniorange-sso/blocks/sso-widget/48152e16-8060-4bf5-8478-83efdf88901f",
         "disabled": false,
@@ -157,6 +152,11 @@
           "css_selector_password": "#password-modal-heading",
           "embed_sso_login": false
         }
+      },
+      "14033927738893891564": {
+        "type": "shopify://apps/miniorange-sso/blocks/new-customer-account/48152e16-8060-4bf5-8478-83efdf88901f",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
