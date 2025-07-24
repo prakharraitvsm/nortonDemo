@@ -1,25 +1,236 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        "h2 {text-transform: uppercase;}"
+      ],
       "settings": {
-        "padding_top": 36,
-        "padding_bottom": 36
+        "subheading": "",
+        "subheading_size": 3,
+        "show_title": true,
+        "heading_size": 8,
+        "show_content": true,
+        "text_size": 4,
+        "align_text": "text-center",
+        "width": "wrapper",
+        "bg_color": "#f7f7f7",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
       }
     },
-    "form": {
-      "type": "contact-form",
+    "7c62fab9-85b3-4c3c-84d9-c717ac1acdaf": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--15461636341896__7c62fab9-85b3-4c3c-84d9-c717ac1acdaf-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Motorcycles",
+            "text_size": 5
+          }
+        },
+        "template--15461636341896__7c62fab9-85b3-4c3c-84d9-c717ac1acdaf-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You can contact us by telephoning our sales department on 0121 565 4411 or by email at <a href=\"mailto:sales@nortonmotorcycles.com\" title=\"mailto:sales@nortonmotorcycles.com\"><strong>sales@nortonmotorcycles.com</strong></a></p>",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15461636341896__7c62fab9-85b3-4c3c-84d9-c717ac1acdaf-heading-1",
+        "template--15461636341896__7c62fab9-85b3-4c3c-84d9-c717ac1acdaf-text-1"
+      ],
+      "custom_css": [
+        "h2 {text-transform: uppercase;}"
+      ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "width": "wrapper",
+        "align_text": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "45cb6d4a-f74a-4a25-b24c-b56b149a2679": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--15461636341896__45cb6d4a-f74a-4a25-b24c-b56b149a2679-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Clothing",
+            "text_size": 5
+          }
+        },
+        "template--15461636341896__45cb6d4a-f74a-4a25-b24c-b56b149a2679-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You can contact us about your online clothing order at <a href=\"mailto:clothing@nortonmotorcycles.com\"><strong>clothing@nortonmotorcycles.com</strong></a></p>",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15461636341896__45cb6d4a-f74a-4a25-b24c-b56b149a2679-heading-1",
+        "template--15461636341896__45cb6d4a-f74a-4a25-b24c-b56b149a2679-text-1"
+      ],
+      "custom_css": [
+        "h2 {text-transform: uppercase;}"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "58ed5634-8b68-48e5-972d-b426bdeb34be": {
+      "type": "contact-form",
+      "blocks": {
+        "fd4e1276-d58f-4b2f-a2a8-4b79586de247": {
+          "type": "select",
+          "settings": {
+            "title": "TITLE*",
+            "label-one": "—Please choose an option—",
+            "label-two": "Mr",
+            "label-three": "Mrs",
+            "label-four": "Miss",
+            "label-five": "Other",
+            "label-six": ""
+          }
+        },
+        "template--15461636341896__58ed5634-8b68-48e5-972d-b426bdeb34be-text-1": {
+          "type": "text",
+          "settings": {
+            "title": "FIRST NAME*",
+            "required": true
+          }
+        },
+        "2f716696-4775-4db1-94b8-3062a9b7fb21": {
+          "type": "text",
+          "settings": {
+            "title": "LAST NAME*",
+            "required": false
+          }
+        },
+        "template--15461636341896__58ed5634-8b68-48e5-972d-b426bdeb34be-email-1": {
+          "type": "email",
+          "settings": {
+            "title": "EMAIL*",
+            "required": true
+          }
+        },
+        "803aff86-afbd-4298-9931-85b2b8ee69d3": {
+          "type": "telephone",
+          "settings": {
+            "title": "PHONE*",
+            "required": true
+          }
+        },
+        "template--15461636341896__58ed5634-8b68-48e5-972d-b426bdeb34be-select-1": {
+          "type": "select",
+          "settings": {
+            "title": "WHAT IS YOUR ENQUIRY REGARDING?*",
+            "label-one": "—Please choose an option—",
+            "label-two": "Clothing",
+            "label-three": "Motorcycles",
+            "label-four": "Other",
+            "label-five": "",
+            "label-six": ""
+          }
+        },
+        "template--15461636341896__58ed5634-8b68-48e5-972d-b426bdeb34be-body-1": {
+          "type": "body",
+          "settings": {
+            "title": "MESSAGE*",
+            "required": true
+          }
+        },
+        "9f4ce53a-5340-4f43-a060-cc720095da1a": {
+          "type": "formHeading",
+          "settings": {
+            "title": "I have read, understood and agree to Norton Motorcycle's Privacy Policy."
+          }
+        },
+        "0c526a37-c3c3-432c-b7c0-178d4a8bae0e": {
+          "type": "checkbox",
+          "settings": {
+            "title": "YES",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "fd4e1276-d58f-4b2f-a2a8-4b79586de247",
+        "template--15461636341896__58ed5634-8b68-48e5-972d-b426bdeb34be-text-1",
+        "2f716696-4775-4db1-94b8-3062a9b7fb21",
+        "template--15461636341896__58ed5634-8b68-48e5-972d-b426bdeb34be-email-1",
+        "803aff86-afbd-4298-9931-85b2b8ee69d3",
+        "template--15461636341896__58ed5634-8b68-48e5-972d-b426bdeb34be-select-1",
+        "template--15461636341896__58ed5634-8b68-48e5-972d-b426bdeb34be-body-1",
+        "9f4ce53a-5340-4f43-a060-cc720095da1a",
+        "0c526a37-c3c3-432c-b7c0-178d4a8bae0e"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".custom-form__block.custom-form__block--heading > p {font-weight: 300 !important;}",
+        ".contact__form__heading {font-weight: 700;}"
+      ],
+      "settings": {
+        "title": "CONTACT US",
+        "terms": true,
+        "width": "wrapper--narrow",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "ce515898-e1b0-4c55-a423-d0783d13ff96": {
+      "type": "section-rich-text",
+      "blocks": {
+        "template--15461636341896__ce515898-e1b0-4c55-a423-d0783d13ff96-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You may find answers to common questions in our <a href=\"https://shop.nortonmotorcycles.com/pages/faqs\" title=\"https://shop.nortonmotorcycles.com/pages/faqs\"><strong>FAQS</strong></a></p>",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15461636341896__ce515898-e1b0-4c55-a423-d0783d13ff96-text-1"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "align_text": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     }
   },
   "order": [
     "main",
-    "form"
+    "7c62fab9-85b3-4c3c-84d9-c717ac1acdaf",
+    "45cb6d4a-f74a-4a25-b24c-b56b149a2679",
+    "58ed5634-8b68-48e5-972d-b426bdeb34be",
+    "ce515898-e1b0-4c55-a423-d0783d13ff96"
   ]
 }

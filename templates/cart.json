@@ -1,40 +1,58 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "cart-items": {
-      "type": "main-cart-items",
+    "main": {
+      "type": "cart",
+      "custom_css": [
+        "div > form > div > div.cart__aside > div.cart__foot__inner.is-animated > div > p > label > a{font-size:12px;}"
+      ],
       "settings": {
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 80,
+        "padding_bottom": 50
       }
     },
-    "cart-footer": {
-      "type": "main-cart-footer",
+    "section_collection_XY4iAr": {
+      "type": "section-collection",
+      "custom_css": [
+        "div > div.grid__items-holder > div {padding: 0px;}",
+        "div > div.grid__items-holder > div > div {gap: 0px;}",
+        "@media screen and (min-width: 768px) {div > div.grid__heading-holder.grid__heading-holder--inline > div > h2 {font-weight: 800; } .grid__heading-holder--inline .grid__heading-text {flex: 0 1 100%; }}",
+        ".grid__heading-holder {margin-bottom: 50px;}",
+        ".product-item__title {font-weight: 600; text-transform: uppercase;}"
+      ],
       "settings": {
-        "color_scheme": "scheme-1",
-        "padding_top": 20,
-        "padding_bottom": 40
-      },
-      "blocks": {
-        "subtotal": {
-          "type": "subtotal",
-          "settings": {
-          }
-        },
-        "buttons": {
-          "type": "buttons",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "subtotal",
-        "buttons"
-      ]
+        "heading": "YOU MAY ALSO LIKE",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "you-may-also-like",
+        "style": "grid",
+        "grid": 4,
+        "rows": 1,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
-    "cart-items",
-    "cart-footer"
+    "main",
+    "section_collection_XY4iAr"
   ]
 }
