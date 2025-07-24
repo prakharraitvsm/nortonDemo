@@ -1,0 +1,311 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h2 {text-transform: uppercase;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "subheading_size": 3,
+        "show_title": true,
+        "heading_size": 8,
+        "show_content": true,
+        "text_size": 4,
+        "align_text": "text-center",
+        "width": "wrapper",
+        "bg_color": "#ffffff",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "faq-first": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "faq-heading": {
+          "type": "heading",
+          "settings": {
+            "title": "BUYING YOUR NEW NORTON - HOW DOES IT WORK?"
+          }
+        },
+        "faq-0": {
+          "type": "question",
+          "settings": {
+            "title": "ORDER YOUR BIKE",
+            "content": "<p>Once you have chosen your bike, click \"Add to cart\" or \"Buy it now\" to proceed to the checkout. Enter your personal details and procced to pay the pre-sale reservation fee.</p>"
+          }
+        },
+        "faq-1": {
+          "type": "question",
+          "settings": {
+            "title": "TALK TO A NORTON AGENT",
+            "content": "<p>We will get in touch with you to discuss your purchase and gather any additional information that may be necessary.</p>"
+          }
+        },
+        "faq-2": {
+          "type": "question",
+          "settings": {
+            "title": "GETTING YOUR NORTON READY",
+            "content": "<p>We will keep you up to date with the status of your order so you can relax while we build your Norton. We’ll let you know when it’s ready.</p>"
+          }
+        },
+        "5ff145ed-112d-4d0d-8b6c-554c1589e87c": {
+          "type": "question",
+          "settings": {
+            "title": "HOW DO YOU USE MY PERSONAL INFORMATION?",
+            "content": "<p>Norton Motocrycles take your privacy seriously. We will only use your personal information to provide the products and services you have requested from us or to administer your account. We may need to share your details with third parties in order to provide our services to you.<br/><br/>Our full <a href=\"https://nortonmotorcycles.com/privacy-policy/\" target=\"_blank\" title=\"https://nortonmotorcycles.com/privacy-policy/\">Privacy Policy </a>is published on our UK website and is also available on request.</p>"
+          }
+        },
+        "a1baf557-454e-4d54-b2bb-1f47a444b8ed": {
+          "type": "question",
+          "settings": {
+            "title": "PAY YOUR BALANCE",
+            "content": "<p>Once your Norton is ready, we’ll ask you to pay the balance via bank transfer. We’ll then book a handover date at your convenience.</p>"
+          }
+        },
+        "4f50f761-6185-4a78-ad8e-242a3fcaafa5": {
+          "type": "question",
+          "settings": {
+            "title": "COLLECT YOUR NORTON",
+            "content": "<p>Once your balance is fully paid, we’ll carry out a comprehensive handover and you can ride away on your brand new Norton.</p>"
+          }
+        },
+        "180446e0-690d-44b7-aa4a-79e71ecba7c1": {
+          "type": "question",
+          "settings": {
+            "title": "TAKING CARE OF YOUR NORTON",
+            "content": "<p>Your bike is covered by a 2 year warranty, so if you have any issues, please get in touch with a Norton agent and we’ll take it from there.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-heading",
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "5ff145ed-112d-4d0d-8b6c-554c1589e87c",
+        "a1baf557-454e-4d54-b2bb-1f47a444b8ed",
+        "4f50f761-6185-4a78-ad8e-242a3fcaafa5",
+        "180446e0-690d-44b7-aa4a-79e71ecba7c1"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "",
+        "border_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "faq-second": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading-0": {
+          "type": "heading",
+          "settings": {
+            "title": "MOTORCYCLES - FREQUENTLY ASKED QUESTIONS"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take for my Norton to be delivered?",
+            "content": "<p>We build every bike made to order. Our Norton agents willkeep you well updated on the progress of your order. We’ll also discuss yourpreferred delivery / handover method and timing to suit your requirements.</p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Is home delivery available?",
+            "content": "<p>Yes, home delivery is available (but certain restrictions may apply). Please discuss your delivery requirements with your Norton agent. We can also offer a handover at Bike Shed and Norton HQ.</p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "I live outside of the UK. Can I place an order online?",
+            "content": "<p>At this time we are only able to take orders from residents of the United Kingdom.</p>"
+          }
+        },
+        "c19eec5d-cb9b-4e0d-8110-7b3e4276523d": {
+          "type": "question",
+          "settings": {
+            "title": "How do you use my personal information?",
+            "content": "<p>Norton Motocrycles take your privacy seriously. We will only use your personal information to provide the products and services you have requested from us or to administer your account. We may need to share your details with third parties in order to provide our services to you.<br/><br/>Our full Privacy Policy is published on our UK website and is also available on request.</p>"
+          }
+        },
+        "847bb379-df1c-49b7-828f-7081a88d8238": {
+          "type": "question",
+          "settings": {
+            "title": "Who do I contact to discuss my order?",
+            "content": "<p>You can contact us by telephoning our sales department on 0121 565 4411 or by email at sales@nortonmotorcycles.com, quoting your order number.</p>"
+          }
+        },
+        "f7bedb1b-0f3a-435f-8329-5958c3af6ebb": {
+          "type": "question",
+          "settings": {
+            "title": "Can I change the personal details on my order?",
+            "content": "<p>Contact a Norton agent and they may be able to update these details for you, depending on where you are in the journey.<br/><br/>If you have completed certain stages, we will be unable to change your address on your order and may need to re-submit it with your new address.</p>"
+          }
+        },
+        "c5457ea8-a49e-4e70-9a05-967e82fe44d4": {
+          "type": "question",
+          "settings": {
+            "title": "What if I want to cancel or amend my order?",
+            "content": "<p>To cancel or amend your order you must contact a Norton agent. They will discuss your options, and help you cancel or change your order where applicable.</p>"
+          }
+        },
+        "a223848a-bd9b-457f-a727-9676e25b7ac5": {
+          "type": "question",
+          "settings": {
+            "title": "When do I pay the balance for my order and what types of payment are available?",
+            "content": "<p>Pre-sale Reservation fee<br/><br/>You can securely pay your pre-sale reservation fee in our online shop using a credit or debit card.<br/><br/>When it comes to paying the balance due for your bike, a Norton agent will contact you to let you know that the bike is ready and to arrange a bank transfer.<br/><br/>We do not currently offer an option to purchase bikes via finance through Norton, but we will be introducing this option soon.</p>"
+          }
+        },
+        "64a2a9ba-f988-4f83-bc62-8600ca741cac": {
+          "type": "question",
+          "settings": {
+            "title": "Can I part-exchange my current bike as part payment formy new Norton?",
+            "content": "<p>We do not currently offer part exchanges, but we will be introducing this option soon.</p>"
+          }
+        },
+        "eacfb5b1-94ce-4b11-a0e6-ad005f30f282": {
+          "type": "question",
+          "settings": {
+            "title": "Who do I contact if I have an issue with my bike post-delivery?",
+            "content": "<p>You can contact us by telephoning our customer service department on 0121 565 4411 or by email at <a href=\"mailto:sales@nortonmotorcycles.com\" title=\"mailto:sales@nortonmotorcycles.com\">sales@nortonmotorcycles.com</a>, quoting your order number.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading-0",
+        "question-1",
+        "question-2",
+        "question-3",
+        "c19eec5d-cb9b-4e0d-8110-7b3e4276523d",
+        "847bb379-df1c-49b7-828f-7081a88d8238",
+        "f7bedb1b-0f3a-435f-8329-5958c3af6ebb",
+        "c5457ea8-a49e-4e70-9a05-967e82fe44d4",
+        "a223848a-bd9b-457f-a727-9676e25b7ac5",
+        "64a2a9ba-f988-4f83-bc62-8600ca741cac",
+        "eacfb5b1-94ce-4b11-a0e6-ad005f30f282"
+      ],
+      "custom_css": [
+        ".accordion__title.h6 {text-transform: uppercase !important;}"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "bg_color": "#fafafa",
+        "color": "",
+        "border_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "faq-third": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading-0": {
+          "type": "heading",
+          "settings": {
+            "title": "CLOTHING - FREQUENTLY ASKED QUESTIONS"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "How can I contact you about my order?",
+            "content": "<p>You can contact us about your online clothing order at <a href=\"mailto:clothing@nortonmotorcycles.com\">clothing@nortonmotorcycles.com</a> Monday – Friday between 9am and 5pm.</p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "How can I track my order?",
+            "content": "<p>Once your order has shipped you will receive an automated message from Norton. This will include all tracking details for your shipment.</p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "What are the delivery options for online clothing orders?",
+            "content": "<p><strong>UK SHIPPING</strong>: Orders are processed on the same day if ordered before 2.30pm. Orders placed after this time will be processed on the next working day.  </p><p>We offer the following service with Royal Mail:</p><p>Next Day Delivery: £6.99<br/>Standard Delivery (2-4 days): FREE for orders over £50.</p><p><strong>US AND INTERNATIONAL SHIPPING:</strong> Orders are processed on the same day if ordered before 2.30pm (GMT). Orders placed after this time will be processed on the next working day.</p><p>We offer the following service:</p><p>Express International<strong>:</strong> 2-4 business days following dispatch. Costs calculated at checkout.<br/><br/>Please note that in order for your order to be eligible for express, next day or Saturday delivery, it must have been placed by no later than 3pm on the previous working day. We do not ship items on Saturdays, Sundays or Public Holidays.<br/></p>"
+          }
+        },
+        "question_agEXJB": {
+          "type": "question",
+          "settings": {
+            "title": "What countries do you deliver to?",
+            "content": "<p>Argentina<br/>Australia<br/>Austria<br/>Belgium<br/>Brazil<br/>Bulgaria<br/>Canada<br/>China<br/>Croatia<br/>Cyprus<br/>Czechia<br/>Denmark<br/>Estonia<br/>Finland<br/>France<br/>Germany<br/>Greece<br/>Guernsey<br/>Hungary<br/>India<br/>Ireland<br/>Isle of Man<br/>Italy<br/>Jersey<br/>Latvia<br/>Lithuania<br/>Liechtenstein<br/>Lithuania<br/>Luxembourg<br/>Malta<br/>Mexico<br/>Morocco<br/>Netherlands<br/>New Zealand<br/>Norway<br/>Poland<br/>Portugal<br/>Romania<br/>Saudi Arabia<br/>Singapore<br/>Slovakia<br/>Slovenia<br/>South Africa<br/>Spain<br/>Sri Lanka<br/>Sweden<br/>Switzerland<br/>Turkey<br/>United Arab Emirates<br/>United Kingdom<br/>United States</p>"
+          }
+        },
+        "bc0b8034-9ac7-414b-b5f9-d7dc46d8a292": {
+          "type": "question",
+          "settings": {
+            "title": "How do I return or exchange an item?",
+            "content": "<p>Please refer to our <a href=\"https://shop.nortonmotorcycles.com/policies/refund-policy\" title=\"https://shop.nortonmotorcycles.com/policies/refund-policy\"><span style=\"text-decoration:underline\">returns policy</span></a>. </p><p>You can place a return <a href=\"https://account.nortonmotorcycles.com/\" title=\"https://account.nortonmotorcycles.com/\"><span style=\"text-decoration:underline\">here</span></a>.</p>"
+          }
+        },
+        "3806ae6e-999f-4fa9-9a14-4607f3273421": {
+          "type": "question",
+          "settings": {
+            "title": "What if my item arrives faulty or damaged?",
+            "content": "<p>In the unlikely event that you receive a faulty or damaged item, please contact our customer service team at <a href=\"mailto:clothing@nortonmotorcycles.com\">clothing@nortonmotorcycles.com</a> between 9am and 5pm Monday to Friday and we will assist you.</p>"
+          }
+        },
+        "4913bed9-3a56-475f-b73c-d1544649a6f5": {
+          "type": "question",
+          "settings": {
+            "title": "Can I cancel an order?",
+            "content": "<p>If you change your mind about your order, you have up to an hour to cancel it. To do so, please email <a href=\"mailto:clothing@nortonmotorcycles.com\" title=\"mailto:clothing@nortonmotorcycles.com\">clothing@nortonmotorcycles.com</a> with your name and order number you wish to cancel.</p>"
+          }
+        },
+        "question_LHJXYa": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT ARE YOUR OPERATING HOURS?",
+            "content": "<p>Monday - Friday 9am - 5pm (GMT/BST). Please note, we are closed on weekends and UK bank holidays.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading-0",
+        "question-1",
+        "question-2",
+        "question-3",
+        "question_agEXJB",
+        "bc0b8034-9ac7-414b-b5f9-d7dc46d8a292",
+        "3806ae6e-999f-4fa9-9a14-4607f3273421",
+        "4913bed9-3a56-475f-b73c-d1544649a6f5",
+        "question_LHJXYa"
+      ],
+      "custom_css": [
+        ".accordion__title.h6 {text-transform: uppercase !important;}"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "",
+        "border_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq-first",
+    "faq-second",
+    "faq-third"
+  ]
+}
