@@ -36,9 +36,35 @@
         "button_style": "btn--solid",
         "show_arrow": false
       }
+    },
+    "section_collection_mBf4YU": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "heading": "Best Sellers",
+        "description": "",
+        "layout": "inline",
+        "link_text": "Shop Now",
+        "link_url": "shopify://collections/motorcycles",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "",
+        "style": "grid",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "carousel",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
-    "section_video_jyVGCb"
+    "section_video_jyVGCb",
+    "section_collection_mBf4YU"
   ]
 }
