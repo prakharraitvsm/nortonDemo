@@ -1,0 +1,144 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "text_6iTzxA": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>RESURGENCE: NOVEMBER 4, 2025. </strong><a href=\"https://nortonmotorcycles.com/sign-up/\" target=\"_blank\" title=\"https://nortonmotorcycles.com/sign-up/\"><strong>SIGN UP FOR MORE</strong></a><strong>.</strong></p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "9e922e73-4a4e-4dff-999e-b8a33bdb828b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>WORLDWIDE SHIPPING NOW AVAILABLE. PLEASE CHECK THE <a href=\"/pages/faqs#nmcy-what-countries-do-you-deliver-to\" title=\"/pages/faqs#nmcy-what-countries-do-you-deliver-to\">FAQs </a>FOR EXEMPTIONS.  </p><p>FREE POSTAGE ON ALL UK ORDERS OVER £50</p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "text_6iTzxA",
+        "9e922e73-4a4e-4dff-999e-b8a33bdb828b"
+      ],
+      "settings": {
+        "layout": "slider",
+        "slider_speed": 7,
+        "text_alignment": "center",
+        "show_arrows": false,
+        "marquee_speed": 100,
+        "text_size": 2,
+        "bg_color": "#f7f7f7",
+        "color": "#545454"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "0260bea3-93a4-4d82-b1e2-81732fd75f11": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "aspect_ratio": 0.8,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_YfnLE8": {
+          "type": "image",
+          "settings": {
+            "position": "3",
+            "aspect_ratio": 0.8,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "4f549584-7f42-4f71-ab00-a8dc89560bb1": {
+          "type": "image",
+          "settings": {
+            "position": "1",
+            "aspect_ratio": 0.8,
+            "wide_image": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "0260bea3-93a4-4d82-b1e2-81732fd75f11",
+        "image_YfnLE8",
+        "4f549584-7f42-4f71-ab00-a8dc89560bb1"
+      ],
+      "custom_css": [
+        ".navlink--cart--icon .header__cart__status {background: #000;}"
+      ],
+      "settings": {
+        "header_sticky": false,
+        "header_style": "logo_center_menu_left",
+        "show_separator_line": false,
+        "separator_opacity": 50,
+        "show_icons": true,
+        "icon_as_circle": false,
+        "cart_icon_family": "bag",
+        "logo_max_limit": 200,
+        "logo_max_limit_mobile": 150,
+        "main_menu_linklist": "",
+        "enable_search": true,
+        "show_social_icons": false,
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "type": "country",
+        "highlight_item": "Sale",
+        "highlight_item_color": "#d02e2e",
+        "transparent_home": false,
+        "transparent_collection": false,
+        "transparent_article": false,
+        "transparent_page": false,
+        "secondary_menu_linklist": "",
+        "tertiary_menu_linklist": "",
+        "padding_top": 15,
+        "padding_bottom": 15
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}
